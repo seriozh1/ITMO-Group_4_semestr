@@ -10,6 +10,7 @@
 **Преподаватель:** Deborah Oluwakemi
 
 **Почта:** ajayioluwakemideborah@itmo.ru
+[Новые ссылки Zoom](https://docs.google.com/spreadsheets/d/19tHq3VLDu7R_Sqzg5Es-NjflYGtYizOQygO5gBQ6oyQ/edit#gid=614487457)
 
 [ССылка Zoom](https://us04web.zoom.us/j/2039994556?pwd=YzNuUTZTbHRCZHVYOXBmTU9uYmxWUT09)
 
