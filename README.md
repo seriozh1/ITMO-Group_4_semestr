@@ -11,7 +11,7 @@ https://fitp.itmo.ru
 2. **Э** [Технологии программирования](Subjects/ProgrammingTechnology.md)
 3. **Э** [МатСтат](Subjects/MathematicalStatistics.md)
 4. **Э** [Электротехника](Subjects/ElectricalAndElectronics.md)
-5. **Э** [Англ](https://vk.cc/ak65kn)
+5. **Э** [Англ](Subjects/English.md)
 6. **$** [Физика](Subjects/Physics.md)
 7. **=** [Разработки ПО](Subjects/SoftwareTools.md)
 8. **=** [ПриМат](Subjects/AppliedMathematics.md)
