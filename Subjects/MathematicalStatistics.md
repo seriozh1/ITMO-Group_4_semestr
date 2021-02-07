@@ -12,6 +12,8 @@
 
 [Группа ВК](https://vk.com/club193548696)
 
+[Методические указания по решению задач теории вероятностей и мат. статистики](../Files/MethodTeorVer.pdf)
+
 [Вопросы к экзамену](../Files/MatStatExam.pdf)
 
 [Типовик №1](../Files/MatStatTip1.pdf)
