@@ -13,6 +13,8 @@
 
 [ССылка Zoom](https://itmo.zoom.us/j/9764136497)
 
+[Занятие 11.02](https://sway.office.com/4Alt6hMICLSCQFp8?ref=Link)
+
 [Таблица успеваемости](https://docs.google.com/spreadsheets/d/1JKrA_p0jPz0Pl5RcNkJc_0OpS8WauoKcAwQRrfC6Mj0/edit#gid=1772105772)
 
 [Учебник](https://drive.google.com/file/d/0B5H-lwCfhG2XcVFkNGZWNGkzTFE/view)
