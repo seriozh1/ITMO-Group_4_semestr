@@ -9,13 +9,9 @@
 
 **Преподаватель:** Deborah Oluwakemi
 
-**Почта:** ajayioluwakemideborah@itmo.ru
+**Почта:** 
 
-[Новые ссылки Zoom](https://docs.google.com/spreadsheets/d/19tHq3VLDu7R_Sqzg5Es-NjflYGtYizOQygO5gBQ6oyQ/edit#gid=614487457)
-
-[ССылка Zoom](https://us04web.zoom.us/j/2039994556?pwd=YzNuUTZTbHRCZHVYOXBmTU9uYmxWUT09)
-
-[Диск для загрузки HW](https://drive.google.com/drive/folders/1CRb9mCkB0NObhzaqRdnNHt25eqkAqfRM)
+[ССылка Zoom](https://itmo.zoom.us/j/9764136497)
 
 [Таблица успеваемости](https://docs.google.com/spreadsheets/d/1JKrA_p0jPz0Pl5RcNkJc_0OpS8WauoKcAwQRrfC6Mj0/edit#gid=1772105772)
 
