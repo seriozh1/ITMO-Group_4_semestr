@@ -13,7 +13,7 @@
 
 [ССылка Zoom](https://itmo.zoom.us/j/9764136497)
 
-[Google Docs](https://classroom.google.com/u/0/c/Mjc0Njg5NzExNTk0)
+[Google Classroom](https://classroom.google.com/u/0/c/Mjc0Njg5NzExNTk0)
 
 [Таблица успеваемости](https://docs.google.com/spreadsheets/d/1JKrA_p0jPz0Pl5RcNkJc_0OpS8WauoKcAwQRrfC6Mj0/edit#gid=1772105772)
 
