@@ -19,7 +19,8 @@ https://fitp.itmo.ru
 
 
 Документы:
-* [Список группы](GroupList.md)
+* [Список группы M3204](GroupList.md)
+* [Список группы M32013](GroupList_M32013.md)
 * [Учебный план](Files/EducationPlan.xlsx)
 
 Учебные ссылки:
