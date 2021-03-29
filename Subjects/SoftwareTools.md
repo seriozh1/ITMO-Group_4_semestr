@@ -13,3 +13,4 @@
 
 **Преподаватель:** Смирнов Станислав Михайлович
 
+[Таблица с баллами](https://docs.google.com/spreadsheets/d/1A3qJlWvPenwOgRvvg8TVYbhvoW4wr5JmaYKPKpZ7QNE/edit?usp=sharing)
