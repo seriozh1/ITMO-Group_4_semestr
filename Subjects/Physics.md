@@ -15,9 +15,9 @@
 
 ### Лабы
 
-**Преподаватель:** Тимофеева Эльвира Олеговна
+**Преподаватель:** Музыченко Яна Борисовна
 
-[Таблица успеваемости](https://docs.google.com/spreadsheets/d/1jdBXanA0Ixc2c9KLpdExGMcN7mNKOHD351mYA2D4Y-4/edit#gid=0)
+[Таблица успеваемости](https://docs.google.com/spreadsheets/d/1lfC_OR4yt5PPZ91Q2tzYvTk3B0_PI5QZAikuykuCde0/edit#gid=737522585)
 
 ### Главный сайт
 https://studyphysics.ifmo.ru/
